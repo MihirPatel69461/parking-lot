@@ -89,4 +89,4 @@ docker build -t parking .
 # Additional 
 - A postman requests collection is provided with the filename `ParkingLot.postman_collection.json`
 # Author
-Swapnil Soni (@SwapnilSoni1999) for Nas Academy Hackathon.
+Mihir Patel (MihirPatel69461)
